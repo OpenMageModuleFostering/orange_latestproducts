@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>orange_latestproducts</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <stability>stable</stability>
     <license>Open Software License</license>
     <channel>community</channel>
@@ -10,9 +10,9 @@
     <description>Magento Latest products module automatically generates the list of your latest products.</description>
     <notes>Stable release</notes>
     <authors><author><name>Mage</name><user>Dev</user><email>mage.ext@gmail.com</email></author></authors>
-    <date>2013-01-12</date>
-    <time>21:20:43</time>
-    <contents><target name="magecommunity"><dir name="Orange"><dir name="LatestProducts"><dir name="Model"><file name="Latestproducts.php" hash="bafb9b8ad530b43d8662f673139ee79d"/></dir><dir name="etc"><file name="config.xml" hash="457ff88ca4365e8f4a7f881974e0ab8c"/><file name="system.xml" hash="68852551be0ac354874bbb029254bf1a"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="orange"><dir name="latestproducts"><file name="latestproducts.phtml" hash="268af3635c8303078d42c995ede84c5d"/></dir></dir></dir><dir name="layout"><file name="orange_latestproducts.xml" hash="6bfcacac17034c51c9152117da61c8b8"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Orange_LatestProducts.xml" hash="58322bbf143b1edf902a0b444f59da28"/></dir></target></contents>
+    <date>2013-01-15</date>
+    <time>19:27:12</time>
+    <contents><target name="magecommunity"><dir name="Orange"><dir name="LatestProducts"><dir name="Model"><file name="Latestproducts.php" hash="5a38b5dc4078f13a192071941c591e9c"/></dir><dir name="etc"><file name="config.xml" hash="6698c6700337a46df220bc622bb4b7c0"/><file name="system.xml" hash="bbdd39f26f786cd51fca86d2efb200c1"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="orange"><dir name="latestproducts"><file name="latestproducts.phtml" hash="de17b89a12efccfaa81976ee3a634dc7"/></dir></dir></dir><dir name="layout"><file name="orange_latestproducts.xml" hash="ff69f36dc0a06e473e771d53b0ee10d8"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Orange_LatestProducts.xml" hash="58322bbf143b1edf902a0b444f59da28"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>

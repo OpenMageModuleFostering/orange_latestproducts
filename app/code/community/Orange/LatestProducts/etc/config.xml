@@ -2,15 +2,15 @@
 <config>
     <modules>
         <Orange_LatestProducts>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Orange_LatestProducts>
     </modules>
 	<frontend>
 		<layout>
 			<updates>
-				<orange>
+				<orange_latestproducts>
 					<file>orange_latestproducts.xml</file>
-				</orange>
+				</orange_latestproducts>
 			</updates>
 		</layout>
 	</frontend>
@@ -48,6 +48,8 @@
 				<block_title>Latest Products</block_title>
 				<display_products>3</display_products>
 				<addtocart>1</addtocart>
+				<wishlist_link>1</wishlist_link>
+				<compare_link>1</compare_link>
 			</settings>
 		</orange_latestproducts>
 	</default>
