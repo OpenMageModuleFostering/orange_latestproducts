@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/orange_latestproducts",
+    "name": "OpenMageModuleFostering\/orange_latestproducts",
     "type": "magento-module",
     "license": "Open-Software-License",
     "homepage": "",
     "description": "Display Latest products",
     "authors": [
-    {
-        "name": "Mage",
-        "email": "mage.ext@gmail.com"
-    }
-],
+        {
+            "name": "Mage",
+            "email": "mage.ext@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
